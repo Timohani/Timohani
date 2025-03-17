@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Timohani
+- 👀 I’m interested in coding on Java
+- 🌱 I’m currently learning it
+- ⚡ Fun fact: I'm 15 y.o.
