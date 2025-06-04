@@ -5,7 +5,7 @@
 
 ### **🛠️ Skills & Interests**  
 ☕ **Java** (Core, SE)  
-🔧 **Tool:** IntelliJ IDEA, OpenIDE, Git/GitHub  
+🔧 **Tools:** IntelliJ IDEA, OpenIDE, Git/GitHub  
 📚 **Interests:** Backend
 
 ---
