@@ -4,10 +4,11 @@
 ---
 
 ### **🛠️ Skills & Interests**  
-☕ **Java** (Core, SE)
-🍃 **FrameWorks**: Spring (Core, Boot, Data JPA, Web), Hibernate
-🔧 **Tools:** IntelliJ IDEA, Git/GitHub
-📚 **Interests:** Backend
+
+- ☕ **Java** (Core, SE)
+- 🍃 **FrameWorks**: Spring (Core, Boot, Data JPA, Web), Hibernate
+- 🔧 **Tools:** IntelliJ IDEA, Git/GitHub
+- 📚 **Interests:** Backend
 
 ---
 
