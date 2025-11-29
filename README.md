@@ -1,5 +1,5 @@
 #  **👋 Hello, I'm Timohani!**  
-### *Java-deleloper | 15 y.o.*  
+### *Java-deleloper*  
 
 ---
 
