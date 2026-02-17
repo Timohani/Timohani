@@ -8,7 +8,7 @@
 - ☕ **Java** (Core, SE)
 - 🍃 **FrameWorks**: Spring (Core, Boot, Data JPA, Web), Hibernate
 - 🔧 **Tools:** IntelliJ IDEA, Git/GitHub
-- 📚 **Interests:** Backend
+- 📚 **Interests:** Backend, Minecraft Modding
 
 ---
 
